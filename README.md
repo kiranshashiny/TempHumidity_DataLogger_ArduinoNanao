@@ -1,7 +1,21 @@
-# TempHumidity_DataLogger_ArduinoNanao
+# Temperature and Humidity Data Logger from an Arduino Nano
 
 This git repo tells how to log temperature and humidity sensor data to a SD Card 
- when connected to an Arduino Nano
+ when connected to an Arduino Nano.
+
+The format is in a flat text file and one can start writing data to this flat file in the code.
+
+
+
+###Parts needed:
+
+Arduino Nano
+Temperature Sensor DHT11
+Micro SD Card Reader
+Micro SD card
+
+
+### Connections were from this site.
 
 http://lab.dejaworks.com/arduino-nano-sd-card-connection/
 
